@@ -1,0 +1,6 @@
+{
+  "name": "TenseReflex - Luyện Phản Xạ 12 Thì Tiếng Anh",
+  "description": "Ứng dụng luyện phản xạ 12 thì tiếng Anh trực quan, dễ hiểu với 100 bài tập tương tác, biểu đồ trục thời gian, phát âm IPA và phân tích chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
